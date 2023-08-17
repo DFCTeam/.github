@@ -2,3 +2,4 @@
 Our projects:
  - [forkpezda](https://github.com/DFCTeam/forkpezda)
  - [compressXX](https://github.com/DFCTeam/compressXX)
+ - [sbox-keygen](https://github.com/DFCTeam/sbox-keygen)
