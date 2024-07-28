@@ -1,1 +1,1 @@
-# We are moved to [Codeberg](https://codeberg.org/DFCTeam)
+# Probably migrating again to GitHub, we need to find contributors
